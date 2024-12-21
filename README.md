@@ -18,6 +18,8 @@
     cd caminho
     ```
 
+3. Agora é só abrir o arquivo no IDE de sua preferência
+
 
 ## Contribuições:
 Contribuições são bem-vindas! Se você tiver uma ideia para melhorar o jogo ou encontrar algum bug, sinta-se à vontade para abrir um **issue** ou enviar um **pull request**.
